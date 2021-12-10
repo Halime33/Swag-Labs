@@ -20,7 +20,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.concurrent.TimeUnit;
 
-//bu bir depo class. Dger classlar bu classi kullanson diye yaptik
+
 public class Driver {
 
     private Driver(){

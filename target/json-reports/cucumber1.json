@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4790000000,
+              "duration": 5610000000,
               "status": "passed"
             },
             "line": 5,
@@ -24,11 +24,11 @@
         ]
       },
       {
-        "start_timestamp": "2021-12-10T00:52:05.592Z",
+        "start_timestamp": "2021-12-10T02:01:59.950Z",
         "before": [
           {
             "result": {
-              "duration": 3000000,
+              "duration": 5000000,
               "status": "passed"
             },
             "match": {
@@ -43,7 +43,7 @@
         "after": [
           {
             "result": {
-              "duration": 678000000,
+              "duration": 534000000,
               "status": "passed"
             },
             "match": {
@@ -56,7 +56,7 @@
         "steps": [
           {
             "result": {
-              "duration": 436000000,
+              "duration": 660000000,
               "status": "passed"
             },
             "line": 9,
@@ -68,7 +68,7 @@
           },
           {
             "result": {
-              "duration": 243000000,
+              "duration": 359000000,
               "status": "passed"
             },
             "line": 10,
@@ -80,7 +80,7 @@
           },
           {
             "result": {
-              "duration": 138000000,
+              "duration": 371000000,
               "status": "passed"
             },
             "line": 11,
@@ -92,7 +92,7 @@
           },
           {
             "result": {
-              "duration": 144000000,
+              "duration": 112000000,
               "status": "passed"
             },
             "line": 12,
@@ -118,7 +118,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3847000000,
+              "duration": 373000000,
               "status": "passed"
             },
             "line": 5,
@@ -131,7 +131,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-12-10T00:52:12.207Z",
+        "start_timestamp": "2021-12-10T02:02:07.827Z",
         "before": [
           {
             "result": {
@@ -157,7 +157,7 @@
               }
             ],
             "result": {
-              "duration": 405000000,
+              "duration": 251000000,
               "status": "passed"
             },
             "match": {
@@ -170,7 +170,7 @@
         "steps": [
           {
             "result": {
-              "duration": 310000000,
+              "duration": 488000000,
               "status": "passed"
             },
             "line": 16,
@@ -182,7 +182,7 @@
           },
           {
             "result": {
-              "duration": 77000000,
+              "duration": 95000000,
               "status": "passed"
             },
             "line": 17,
@@ -194,8 +194,8 @@
           },
           {
             "result": {
-              "error_message": "java.lang.AssertionError\n\tat org.junit.Assert.fail(Assert.java:87)\n\tat org.junit.Assert.assertTrue(Assert.java:42)\n\tat org.junit.Assert.assertTrue(Assert.java:53)\n\tat stepdefinitions.LoginStepdefinition.i_verify_the_error_message_contains_the_text(LoginStepdefinition.java:80)\n\tat ✽.I verify the Error Message contains the text \"Sorry, this user has been banned.\"(file:///Users/halime/IdeaProjects/SwagLabsFramework/src/test/resources/features/login.feature:18)\n",
-              "duration": 52000000,
+              "error_message": "java.lang.AssertionError\n\tat org.junit.Assert.fail(Assert.java:87)\n\tat org.junit.Assert.assertTrue(Assert.java:42)\n\tat org.junit.Assert.assertTrue(Assert.java:53)\n\tat stepdefinitions.LoginStepdefinition.i_verify_the_error_message_contains_the_text(LoginStepdefinition.java:73)\n\tat ✽.I verify the Error Message contains the text \"Sorry, this user has been banned.\"(file:///Users/halime/IdeaProjects/SwagLabsFramework/src/test/resources/features/login.feature:18)\n",
+              "duration": 68000000,
               "status": "failed"
             },
             "line": 18,
